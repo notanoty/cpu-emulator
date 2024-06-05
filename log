@@ -1,0 +1,7 @@
+16bitcpu.cpp  assembly.cpp  operations.cpp
+
+assembly.cpp spfunctions.cpp
+
+operations.cpp spfunctions.cpp
+
+spfunctions.cpp

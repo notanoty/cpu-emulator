@@ -1,0 +1,18 @@
+ORG 0
+BR 10
+
+
+ORG 10
+LOAD 18  ; N  AC = 5 
+MUL  19  ; M  AC = 5 
+STORE 19 ; M  MEMORY[19] = 5
+LOAD 18  ; N  AC = 5
+SUB =1   ;    AC = 4 
+STORE 18 ; N  MEMORY[18] = 4
+BREQ 3
+BR 10
+
+
+
+BSS 10
+DATA 8,1  ; N = 18 M = 19

@@ -1,0 +1,7 @@
+ORG 0 
+BR =11
+BSS 10
+ADD =1
+HALT
+
+

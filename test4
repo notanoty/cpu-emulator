@@ -1,0 +1,7 @@
+ORG 0 ;  iiiiiiii
+  ; ssfijsd0ofinjmsfoisnmgfiou
+ADD =3 
+ADD =2
+ADD =1
+BSS 10
+DATA 2,2,2 ;I AM 
